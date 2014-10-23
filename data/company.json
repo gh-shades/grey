@@ -1,0 +1,30 @@
+[
+  {
+    "object-type": 2,
+    "data": {
+      "id": 0,
+      "name": "Intel",
+      "description": "It's Intel, what do you want?",
+      "industry": [ "cpu", "graphics cards" ],
+      "presence": {
+        "email": [ { "name": "hr", "address": "pr@intel.com" } ],
+        "twitter": [ { "name": "main twitter account", "address": "@intel" } ]
+      },
+      "links": []
+    }
+  },
+  {
+    "object-type": 2,
+    "data": {
+      "id": 1,
+      "name": "Adobe",
+      "description": "That flash company",
+      "industry": [ "software" ],
+      "presence": {
+        "email": [ { "name": "hr", "address": "pr@intel.com" } ],
+        "twitter": [ { "name": "main twitter account", "address": "@intel" } ]
+      },
+      "links": []
+    }
+  }
+]

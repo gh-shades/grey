@@ -1,0 +1,14 @@
+[
+  {
+    "object-type": 3,
+    "data": {
+      "id": 0,
+      "meta": [],
+      "description": "Article discussing the companies that have folded to email campaigns to pull ads support.",
+      "links": [
+        { "link-to": { "object-type": 2, "object-id": 0 }, "link-type": 3 },
+        { "link-to": { "object-type": 2, "object-id": 1 }, "link-type": 3 }
+      ]
+    }
+  }
+]

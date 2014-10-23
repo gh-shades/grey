@@ -39,11 +39,11 @@ Links and related objects aren't used as a top level object but are used to conn
     // turned into something that the validator understands to enforce when
     // checking linkObject.link-type
     linkTypeEnum {
-      "1": "relationship-leadership",
-      "2": "relationship-investor",
       // before using relationship-other we should come up with a way to
       // indicate what 'other' means; presumable by updating linkObject
-      "3": "relationship-other"
+      "0": "relationship-other",
+      "1": "relationship-leadership",
+      "2": "relationship-investor"
     }
     
     linkDestinationObject {
