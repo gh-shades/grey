@@ -23,7 +23,7 @@ Our top level objects are currently:
 
 * `person`: An individual that we maintain data on
 * `company`: Some organization composed of many individuals. For the time being this represents anything that is not a single person
-* `evidence`: A datapoint describing one or more `person`s or `company`s; this may be tied to a spec
+* `evidence`: A datapoint describing one or more `person`s or `company`s; this object will contains links to the relevant entities
 
 Currently these first level objects are where all data is rooted within our system and can be enriched by including `evidence` describing some relevant content about the parent
 
