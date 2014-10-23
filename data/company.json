@@ -7,7 +7,7 @@
       "description": "It's Intel, what do you want?",
       "industry": [ "cpu", "graphics cards" ],
       "presence": {
-        "email": [ { "name": "hr", "address": "pr@intel.com" } ],
+        "email": [ { "name": "pr", "address": "pr@intel.com" } ],
         "twitter": [ { "name": "main twitter account", "address": "@intel" } ]
       },
       "links": []
@@ -21,8 +21,8 @@
       "description": "That flash company",
       "industry": [ "software" ],
       "presence": {
-        "email": [ { "name": "hr", "address": "pr@intel.com" } ],
-        "twitter": [ { "name": "main twitter account", "address": "@intel" } ]
+        "email": [ { "name": "pr contact", "address": "prpeople@adobe.com" } ],
+        "twitter": [ { "name": "twitter account", "address": "@adobe" } ]
       },
       "links": []
     }
